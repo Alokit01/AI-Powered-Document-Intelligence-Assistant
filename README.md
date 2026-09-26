@@ -1,4 +1,4 @@
-# PDF RAG Chatbot (LangChain, Gemini, Streamlit)
+# AI-Powered Document Intelligence Assistant (LangChain, Gemini, Streamlit)
 
 A production-ready Retrieval Augmented Generation (RAG) chatbot that answers questions using one or more PDF documents as knowledge sources. Built with LangChain, Google Gemini, FAISS, and Streamlit.
 
